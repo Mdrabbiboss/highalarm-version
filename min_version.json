@@ -1,4 +1,4 @@
 {
-  "minVersionCode": 84,
+  "minVersionCode": 89,
   "note": "Any installed High Alarm below this versionCode must update from Google Play before it can be used. Raise it to the versionCode of the build just published on Play. This repo holds only this number."
 }
